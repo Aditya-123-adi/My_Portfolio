@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+
+    margin-top: 20px;
+    margin-left: 20px;
+}
+img{
+    margin-left: 500px;
+    /* margin-bottom: 50px; */
+}
+.nav1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 20px;
+
+}
+.nav2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: darkslategrey;
+}
